@@ -1,0 +1,111 @@
+c:\users\sümer\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\sümer\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\sümer\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\sümer\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\sümer\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\sümer\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\sümer\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\sümer\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\sümer\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\DOSYALAR\DERS\ÖDEVLER\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\DOSYALAR\DERS\ÖDEVLER\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\DOSYALAR\DERS\ÖDEVLER\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\DOSYALAR\DERS\ÖDEVLER\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\DOSYALAR\DERS\ÖDEVLER\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\DOSYALAR\DERS\ÖDEVLER\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\DOSYALAR\DERS\ÖDEVLER\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\DOSYALAR\DERS\ÖDEVLER\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\DOSYALAR\DERS\ÖDEVLER\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+H:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+H:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+H:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+H:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+H:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+L:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+L:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+L:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+L:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+L:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+L:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+L:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+L:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+L:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+L:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+L:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Sümer\Desktop\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Sümer\Desktop\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sümer\Desktop\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Sümer\Desktop\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sümer\Desktop\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Sümer\Desktop\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sümer\Desktop\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Sümer\Desktop\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Sümer\Desktop\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Sümer\Desktop\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Sümer\Desktop\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sümer\Desktop\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Sümer\Desktop\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+H:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+H:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+F:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+F:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+F:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+F:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+F:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+L:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+L:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+F:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+F:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+F:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+F:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+H:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+H:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+H:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+H:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+H:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+H:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+H:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+H:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\PROGRAMLAR\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\DERS\1.SINIF\Lineer Cebir\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\DERS\1.SINIF\Lineer Cebir\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\DERS\1.SINIF\Lineer Cebir\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\DERS\1.SINIF\Lineer Cebir\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\DERS\1.SINIF\Lineer Cebir\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\DERS\1.SINIF\Lineer Cebir\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\DERS\1.SINIF\Lineer Cebir\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\DERS\1.SINIF\Lineer Cebir\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+D:\DERS\1.SINIF\Lineer Cebir\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+D:\DERS\1.SINIF\Lineer Cebir\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+D:\DERS\1.SINIF\Lineer Cebir\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\DERS\1.SINIF\Lineer Cebir\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\DERS\1.SINIF\Lineer Cebir\LineerCebir Matris Prog\FormApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\DERS\1.SINIF\Lineer Cebir\Matrisler\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\DERS\1.SINIF\Lineer Cebir\Matrisler\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
